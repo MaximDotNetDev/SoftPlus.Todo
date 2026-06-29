@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SoftPlus.Todo.Api/SoftPlus.Todo.Api.csproj" />
+  <Project Path="SoftPlus.Todo.DataAccess/SoftPlus.Todo.DataAccess.csproj" />
+  <Project Path="SoftPlus.Todo.Interfaces/SoftPlus.Todo.Interfaces.csproj" />
+  <Project Path="SoftPlus.Todo.Services/SoftPlus.Todo.Services.csproj" />
+</Solution>
